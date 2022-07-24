@@ -1,2 +1,2 @@
-# personal_website
+# Personal website
 This will host my personal website
